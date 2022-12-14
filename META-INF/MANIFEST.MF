@@ -1,0 +1,9 @@
+Manifest-Version: 1.0
+Bundle-ManifestVersion: 2
+Bundle-Name: App
+Bundle-SymbolicName: Spring-web.app
+Bundle-Version: 1.0.0.qualifier
+Bundle-RequiredExecutionEnvironment: JavaSE-19
+Automatic-Module-Name: Spring.web.app
+Export-Package: com.bolsadeideas.springboot.web.app,
+ com.bolsadeideas.springboot.web.app.controllers
